@@ -16,8 +16,8 @@ def fourth_challenge
       :heroine => {name: "Juliet", age: "15", status: "alive"},
       :heroine_friends => [
         #your hashes here!
-        :friendI => {name: "Benvolio", age: "17" attitude: "worried"},
-        :friendII => {name: "Mercutio", age: "18" attitude: "hotheaded"}
+        :friendI => {name: "Steven", age: "17" attitude: "worried"},
+        :friendII => {name: "Nurse", age: "18" attitude: "hotheaded"}
       ]
    }
 }
